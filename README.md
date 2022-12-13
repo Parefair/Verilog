@@ -38,3 +38,6 @@ The lesson in CPE222 Digital circuit.
     ```
     apio upload
     ```
+# PCF file
+Thank you for this useful paper from this github link.  
+https://github.com/tinyvision-ai-inc/UPduino-v3.0/blob/master/RTL/common/upduino.pcf?fbclid=IwAR3Fj_I_dxWY1-KRAnluFEZugLQvqMiYckf-Pg9vcPk2KkT3sjdaWXXXe-M
