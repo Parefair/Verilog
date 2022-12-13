@@ -1,0 +1,7 @@
+set_io -nowarn a 12
+set_io -nowarn b 21
+set_io -nowarn c 13
+set_io -nowarn d 19
+set_io -nowarn s0 18
+set_io -nowarn s1 11
+set_io -nowarn out 9
